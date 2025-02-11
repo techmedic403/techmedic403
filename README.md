@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![roadmap.sh](https://roadmap.sh/card/tall/672e18a631d65c235d759677?variant=dark)](https://roadmap.sh)
 <!--
 **techmedic403/techmedic403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
